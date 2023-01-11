@@ -1,3 +1,4 @@
+-- SQL
 delimiter //
 CREATE trigger reset_valid 
 before update ON users

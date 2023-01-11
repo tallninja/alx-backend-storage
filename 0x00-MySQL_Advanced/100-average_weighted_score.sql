@@ -1,3 +1,4 @@
+-- SQL
 DROP PROCEDURE IF EXISTS ComputeAverageWeightedScoreForUser;
 
 DELIMITER //

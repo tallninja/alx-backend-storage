@@ -1,3 +1,4 @@
+-- SQL
 SELECT DISTINCT origin, SUM(fans) AS nb_fans
 FROM metal_bands
 GROUP BY origin
